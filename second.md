@@ -1,2 +1,1 @@
-second.md
-changed differently
+second.md changed
